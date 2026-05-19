@@ -1,7 +1,5 @@
 # Hi, I'm Mert 👋
 
-**CSE @ TU/e** | Aspiring Quant Trader
-
 I'm a first-year Computer Science and Engineering student at Eindhoven University of Technology, building toward a career in quantitative trading. I focus on algorithmic strategies, data analysis, and software development.
 
 ---

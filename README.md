@@ -1,6 +1,6 @@
 # Hi, I'm Mert 👋
 
-I'm a first-year Computer Science and Engineering student at Eindhoven University of Technology, building toward a career in quantitative trading. I focus on algorithmic strategies, data analysis, and software development.
+I'm a second-year Computer Science and Engineering student at Eindhoven University of Technology, building toward a career in quantitative trading.
 
 ---
 

@@ -1,10 +1,8 @@
-# Hi, I'm Mert 👋
-
-I'm a second-year Computer Science and Engineering student at Eindhoven University of Technology, building toward a career in quantitative trading.
+second year cse @ tu/e, aspiring quantitative trader
 
 ---
 
-### 🚀 Projects
+### projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -13,14 +11,14 @@ I'm a second-year Computer Science and Engineering student at Eindhoven Universi
 
 ---
 
-### 🛠️ Skills
+### skills
 
-**Languages:** Python · Java · Pine Script  
-**Tools:** Git · VS Code  
-**Interests:** Quantitative Finance · Algorithmic Trading · Data Structures
+**languages:** python · java · pine script  
+**libraries:** numpy · pandas · matplotlib · seaborn 
+**tools:** git · vs Code 
 
 ---
 
-### 📫 Connect
+### connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/davutmertahmetoglu)

@@ -10,6 +10,7 @@ svg{font-family:ui-monospace,'JetBrains Mono','Fira Code','SFMono-Regular',Menlo
 .t1{opacity:0;animation:pop .35s ease-out 0.7000000000000001s forwards}
 .b3{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:rise .7s cubic-bezier(.2,.9,.3,1.15) 0.65s forwards}
 .t3{opacity:0;animation:pop .35s ease-out 1.2000000000000002s forwards}
+@media (prefers-reduced-motion:reduce){.b1,.b2,.b3{transform:none!important}}
 .halo{animation:glow 2.2s ease-in-out 1.4s infinite;opacity:0}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
 </style>

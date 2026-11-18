@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="190" viewBox="0 0 470 190" role="img" aria-label="VakıfBank — FX &amp; derivatives desk internship, July 2026">
+<style>
+svg{font-family:ui-monospace,'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+@keyframes cyc{0%,24.9%{opacity:1}25%,100%{opacity:0}}
+@keyframes flash{0%{fill-opacity:.38}35%,100%{fill-opacity:.12}}
+@keyframes blink2{0%,100%{opacity:1}50%{opacity:.25}}
+.fl{animation:flash 1.5s ease-out infinite}
+.live{animation:blink2 1.4s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.q1,.q2,.q3{opacity:0!important}}
+.q0{opacity:1;animation:cyc 6.0s step-end 0.0s infinite}
+.q1{opacity:0;animation:cyc 6.0s step-end 1.5s infinite}
+.q2{opacity:0;animation:cyc 6.0s step-end 3.0s infinite}
+.q3{opacity:0;animation:cyc 6.0s step-end 4.5s infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<rect x="1" y="1" width="468" height="188" rx="10" fill="#0d1117" stroke="#30363d"/>
+
+<text x="24" y="40" font-size="19" font-weight="700" fill="#e6edf3">vakıfbank</text>
+<text x="446" y="39" font-size="12" fill="#8b949e" text-anchor="end">jul 2026</text>
+<text x="24" y="66" font-size="13" fill="#8b949e">fx &amp; derivatives desk · istanbul</text>
+<text x="24" y="114" font-size="12" fill="#8b949e">EUR/USD</text>
+<circle class="live" cx="28" cy="130" r="3.5" fill="#7ee787"/>
+<text x="37" y="134" font-size="11" fill="#7ee787">quote</text>
+<rect class="fl" x="126" y="92" width="148" height="50" rx="7" fill="#f85149" fill-opacity=".12" stroke="#f85149" stroke-opacity=".5"/>
+<rect class="fl" x="282" y="92" width="148" height="50" rx="7" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".5"/>
+<text x="134" y="106" font-size="10" font-weight="700" fill="#f85149">BID</text>
+<text x="290" y="106" font-size="10" font-weight="700" fill="#7ee787">ASK</text>
+<text class="q0" x="200" y="129" font-size="19" font-weight="700" fill="#e6edf3" text-anchor="middle">1.0842</text><text class="q0" x="356" y="129" font-size="19" font-weight="700" fill="#e6edf3" text-anchor="middle">1.0846</text><text class="q1" x="200" y="129" font-size="19" font-weight="700" fill="#e6edf3" text-anchor="middle">1.0845</text><text class="q1" x="356" y="129" font-size="19" font-weight="700" fill="#e6edf3" text-anchor="middle">1.0849</text><text class="q2" x="200" y="129" font-size="19" font-weight="700" fill="#e6edf3" text-anchor="middle">1.0839</text><text class="q2" x="356" y="129" font-size="19" font-weight="700" fill="#e6edf3" text-anchor="middle">1.0843</text><text class="q3" x="200" y="129" font-size="19" font-weight="700" fill="#e6edf3" text-anchor="middle">1.0848</text><text class="q3" x="356" y="129" font-size="19" font-weight="700" fill="#e6edf3" text-anchor="middle">1.0852</text>
+<text x="24" y="176.5" font-size="12" fill="#8b949e">priced &amp; quoted preferential fx rates to clients</text>
+</svg>

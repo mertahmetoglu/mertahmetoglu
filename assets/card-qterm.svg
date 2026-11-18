@@ -10,6 +10,7 @@ svg{font-family:ui-monospace,'JetBrains Mono','Fira Code','SFMono-Regular',Menlo
 .area{opacity:0;animation:fade 6s ease-in-out infinite}
 .live{animation:live 1.4s ease-in-out infinite}
 .dot{opacity:0;animation:dot 6s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.line{stroke-dashoffset:0!important}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
 </style>
 <rect x="1" y="1" width="468" height="188" rx="10" fill="#0d1117" stroke="#30363d"/>

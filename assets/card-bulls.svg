@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="190" viewBox="0 0 470 190" role="img" aria-label="Bulls Portföy — portfolio management internship, August 2026">
+<style>
+svg{font-family:ui-monospace,'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace}
+@keyframes blink2{0%,100%{opacity:1}50%{opacity:.25}}
+@keyframes s0{0%,0.0%{stroke-dasharray:0 100}7.9%,86%{stroke-dasharray:32.13 67.87;opacity:1}100%{stroke-dasharray:32.13 67.87;opacity:0}}.s0{stroke-dasharray:0 100;animation:s0 7.0s ease-out infinite}
+@keyframes l0{0%,0.0%{opacity:0}7.9%,86%{opacity:1}100%{opacity:0}}.l0{opacity:0;animation:l0 7.0s ease-out infinite}
+@keyframes s1{0%,6.4%{stroke-dasharray:0 100}14.3%,86%{stroke-dasharray:32.13 67.87;opacity:1}100%{stroke-dasharray:32.13 67.87;opacity:0}}.s1{stroke-dasharray:0 100;animation:s1 7.0s ease-out infinite}
+@keyframes l1{0%,6.4%{opacity:0}14.3%,86%{opacity:1}100%{opacity:0}}.l1{opacity:0;animation:l1 7.0s ease-out infinite}
+@keyframes s2{0%,12.9%{stroke-dasharray:0 100}20.7%,86%{stroke-dasharray:32.13 67.87;opacity:1}100%{stroke-dasharray:32.13 67.87;opacity:0}}.s2{stroke-dasharray:0 100;animation:s2 7.0s ease-out infinite}
+@keyframes l2{0%,12.9%{opacity:0}20.7%,86%{opacity:1}100%{opacity:0}}.l2{opacity:0;animation:l2 7.0s ease-out infinite}
+@media (prefers-reduced-motion:reduce){.s0,.s1,.s2{stroke-dasharray:32.13 67.87!important}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+</style>
+<rect x="1" y="1" width="468" height="188" rx="10" fill="#0d1117" stroke="#30363d"/>
+
+<text x="24" y="40" font-size="19" font-weight="700" fill="#e6edf3">bulls portföy</text>
+<text x="446" y="39" font-size="12" fill="#8b949e" text-anchor="end">aug 2026</text>
+<text x="24" y="66" font-size="13" fill="#8b949e">portfolio management · istanbul</text>
+<circle cx="386" cy="112" r="40" fill="none" stroke="#21262d" stroke-width="12"/>
+<circle class="s0" cx="386" cy="112" r="40" fill="none" stroke="#7ee787" stroke-width="12" pathLength="100" stroke-dashoffset="0.00" transform="rotate(-90 386 112)"/><circle class="s1" cx="386" cy="112" r="40" fill="none" stroke="#79c0ff" stroke-width="12" pathLength="100" stroke-dashoffset="-33.33" transform="rotate(-90 386 112)"/><circle class="s2" cx="386" cy="112" r="40" fill="none" stroke="#d2a8ff" stroke-width="12" pathLength="100" stroke-dashoffset="-66.67" transform="rotate(-90 386 112)"/>
+<text x="386" y="111" font-size="17" font-weight="700" fill="#e6edf3" text-anchor="middle">3</text>
+<text x="386" y="126" font-size="10" fill="#8b949e" text-anchor="middle">funds</text>
+<g class="l0"><rect x="24" y="91" width="10" height="10" rx="2" fill="#7ee787"/><text x="42" y="100" font-size="13" fill="#e6edf3">equity fund</text></g><g class="l1"><rect x="24" y="113" width="10" height="10" rx="2" fill="#79c0ff"/><text x="42" y="122" font-size="13" fill="#e6edf3">fixed income fund</text></g><g class="l2"><rect x="24" y="135" width="10" height="10" rx="2" fill="#d2a8ff"/><text x="42" y="144" font-size="13" fill="#e6edf3">money market fund</text></g>
+<text x="24" y="176.5" font-size="12" fill="#8b949e">daily single-name equity analyses for the pms</text>
+</svg>

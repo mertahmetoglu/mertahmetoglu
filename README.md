@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/mertahmetoglu/qterm"><img src="assets/card-qterm.svg" width="49%" alt="qterm — real-time btc/usdt trading signal dashboard" /></a>
-  <img src="assets/card-optiver.svg" width="49%" alt="3rd of ~80 teams — Optiver x Bona Fide coding challenge" />
+  <img src="assets/card-optiver.svg" width="49%" alt="3rd of ~80 teams — Optiver hackathon" />
 </p>
 
 second-year computer science & engineering student at tu/e, working towards a career in quantitative trading. mostly into probability, market making and stochastics.

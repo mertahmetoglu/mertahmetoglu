@@ -9,6 +9,11 @@
 ### `> ls ./highlights`
 
 <p align="center">
+  <img src="assets/card-vakifbank.svg" width="49%" alt="VakıfBank — FX & derivatives desk internship, July 2026" />
+  <img src="assets/card-bulls.svg" width="49%" alt="Bulls Portföy — portfolio management internship, August 2026" />
+</p>
+
+<p align="center">
   <a href="https://github.com/mertahmetoglu/qterm"><img src="assets/card-qterm.svg" width="49%" alt="qterm — real-time btc/usdt trading signal dashboard" /></a>
   <img src="assets/card-optiver.svg" width="49%" alt="3rd of ~80 teams — Optiver x Bona Fide coding challenge" />
 </p>

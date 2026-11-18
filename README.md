@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="mert ahmetoğlu — cse @ tu/e, aspiring quantitative trader" />
+  <img src="assets/header.svg" width="100%" alt="cse @ tu/e, aspiring quantitative trader" />
 </p>
 
 <p align="center">
